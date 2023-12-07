@@ -2,6 +2,7 @@
 
 SEG4910-Group32 organization is used for the Academic calendar capstone project for team 32. 
 Link to the wiki page of the project: https://github.com/SEG4910-Group32/Academic-Calendar-Assistant/wiki
+
 The organization has several repositories for the various parts of the project which are mentioned below:
 
 ### Main repositories:
